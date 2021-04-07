@@ -1,3 +1,4 @@
+test
 # ISO 4217 currency codes
 
 [![](https://docs.rs/iso_currency/badge.svg)](https://docs.rs/iso_currency)
